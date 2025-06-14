@@ -1,5 +1,5 @@
 #MOTILOVER 
-# Add your details here and then deploy by clicking on HEROKU Deploy button
+# Add your details here and then deploy by clicking on renderDeploy button
 import os
 from os import environ
 
